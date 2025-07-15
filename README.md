@@ -1,5 +1,3 @@
-# Salvatore Frasconà - DevOps Engineer
-
 Welcome to my site. I'm a DevOps engineer passionate about automation and infrastructure.
 
 ## Navigation
