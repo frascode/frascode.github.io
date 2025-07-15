@@ -4,7 +4,6 @@ Welcome to my site. I'm a DevOps engineer passionate about automation and infras
 
 - [About Me](./about.md)
 - [Projects](./projects.md)
-- [Blog](./blog/)
 
 ## Recent Posts
 
